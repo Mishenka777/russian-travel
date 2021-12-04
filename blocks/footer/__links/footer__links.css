@@ -2,7 +2,7 @@
   list-style: none;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 710px) {
   .footer__links {
     display: grid;
     grid-row-gap: 32px;
