@@ -10,5 +10,5 @@
 
 .place__link:hover {
   opacity: .8;
-  transition: opacity .3 ease-in-out;
+  transition: opacity .3s ease-in-out;
 }
