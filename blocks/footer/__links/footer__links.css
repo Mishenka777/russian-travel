@@ -1,8 +1,9 @@
 .footer__links {
+  display: flex;
   list-style: none;
 }
 
-@media screen and (max-width: 710px) {
+@media screen and (max-width: 700px) {
   .footer__links {
     display: grid;
     grid-row-gap: 32px;

@@ -1,4 +1,4 @@
-  .place {
+.place {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, minmax(min-content, max-content));
@@ -10,16 +10,10 @@
   justify-content: center;
   width: 100%;
 }
-@media screen and (max-width: 1150px) {
-  .place {
-    row-gap: 48px;
-  }
-}
 
 @media screen and (max-width: 910px) {
   .place {
     margin-bottom: 73px;
-    row-gap: 48px;
     column-gap: 28px;
   }
 }

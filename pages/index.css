@@ -34,3 +34,5 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/intro/__number/intro__number.css);
+@import url(../blocks/header/__lang-link/_activated/header__lang-link_activated.css);

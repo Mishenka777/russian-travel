@@ -5,11 +5,14 @@
   font-style: normal;
   color: #fff;
   margin-right: 18px;
-  font-family: 'Inter';
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .header__lang-link:last-child {
   margin-right: 0;
-  text-decoration: none;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
+  transition: opacity .3s ease-in-out;
 }
