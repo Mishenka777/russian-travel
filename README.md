@@ -1,7 +1,7 @@
 #*Путешествия по России*
 ---
 
-ссылка на проект: [Яндекс Практикум](https://mishenka777.github.io/russian-travel/)
+ссылка на проект: [Путешествия по России](https://mishenka777.github.io/russian-travel/)
 
 
 
